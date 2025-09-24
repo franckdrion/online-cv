@@ -48,15 +48,10 @@ sidebar:
     info:
     - item: Crossfit
       link:
-
-
     - item: Electronique & IoT
       link:
-
-
     - item: Café
       link:
-
 
 career-profile:
   title: Profil professionnel
@@ -102,7 +97,10 @@ experiences:
       - Analyse et recommandations FinOps pour un contrôle efficace des coûts cloud.
       - Participation à la définition de la stratégie cloud et aide à la prise de décision (COSTRAT).
       - Formation et accompagnement des équipes techniques, avec un rôle de leadership et de mentorat.
-      - Promotion des bonnes pratiques DevSecOps et de la sécurité dès la conception.
+      - ""
+      - ""
+      - ""
+      - ""
   - role: SRE
     time: 2017 - 2022
     company: Actency
