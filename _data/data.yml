@@ -97,11 +97,8 @@ experiences:
       - Analyse et recommandations FinOps pour un contrôle efficace des coûts cloud.
       - Participation à la définition de la stratégie cloud et aide à la prise de décision (COSTRAT).
       - Formation et accompagnement des équipes techniques, avec un rôle de leadership et de mentorat.
-
-
-
-
-      
+      - Mise en place de PRA / PCA (plans de reprise et de continuité d’activité) pour garantir la résilience des services critiques.
+      - Mise en place de solutions de monitoring et observabilité (Prometheus, Grafana, ELK, OpenTelemetry…) pour assurer la fiabilité et la performance des systèmes.
   - role: SRE
     time: 2017 - 2022
     company: Actency
