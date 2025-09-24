@@ -13,9 +13,9 @@ sidebar:
   avatar: profile.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
-  email: drionfranck@email.com
+  email: drionfranck@gmail.com
   phone: +33 6 43 50 90 56
-  timezone: Europe/France # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
+  # timezone: Europe/France # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
   # citizenship:
   # website: https://example.com/ # Include the full website URL, including "http://" or "https://".
   linkedin: franck-drion-85728b132
@@ -94,24 +94,34 @@ experiences:
     time: 2022 - Aujourd'hui
     company: Scafe
     details: |
-      Accompagnement des clients vers l'adoption du DevOps.
-      Mise en place d'infrastructures résiliente. 
-      Accompagnement des équipes dans le delivery des projets.
-      Amélioration des processus de livraison (test/build/deploy)
-      Construction de chaînes CI/CD (Gitlab, Github, Azure, Jenkins...
-      Design d'architecture résiliente Cloud Native.
-      Analyse et recommandations FinOps
-      Infra Cloud (AWS, Azure, Scaleway, OVH...) où hybride (bare-metal + Proxmox...) 
-      Aide à la décision stratégique cloud (COSTRAT)
-      Formation et accompagnement des employés (rôle Lead). 
+    - Accompagnement des clients dans la transition vers des pratiques DevOps efficaces et adaptées à leur organisation.
+
+    - Conception et mise en place d’infrastructures résilientes et scalables, cloud ou hybrides (AWS, Azure, Scaleway, OVH, Proxmox…).
+
+    - Support et coaching des équipes pour optimiser le delivery des projets et améliorer la qualité des livrables.
+
+    - Optimisation des processus de livraison (build, tests, déploiements) et automatisation via des chaînes CI/CD (GitLab, GitHub, Azure DevOps, Jenkins…).
+
+    - Design d’architectures Cloud Native robustes et résilientes.
+
+    - Analyse et recommandations FinOps pour un contrôle efficace des coûts cloud.
+
+    - Participation à la définition de la stratégie cloud et aide à la prise de décision (COSTRAT).
+
+    - Formation et accompagnement des équipes techniques, avec un rôle de leadership et de mentorat.
+
+    - Promotion des bonnes pratiques DevSecOps et de la sécurité dès la conception.
   - role: SRE
     time: 2017 - 2022
     company: Actency
     details: |
-      Accompagnement des équipes de developpement dans l'adoption 
-      de la phylosophie DevOps.
-      Migration d'application monolythiques vers du container.
-      Administration et maintien Jira Server (Création Workflow, Board...)
+    - Accompagnement des équipes de développement dans l’adoption des pratiques et de la culture DevOps.
+
+    - Migration d’applications monolithiques vers des architectures conteneurisées, optimisant déploiement et scalabilité.
+
+    - Administration et maintenance de Jira Server : création et optimisation de workflows, boards, permissions et processus collaboratifs.
+
+    - Support à l’amélioration de la collaboration entre équipes Dev et Ops, favorisant l’efficacité et la fluidité des livraisons.
 
 certifications:
   title: Certifications
@@ -225,6 +235,9 @@ skills:
     level: 90%
 
   - name: AWS
+    level: 90%
+
+  - name: Proxmox VE
     level: 90%
 
   - name: Linux & Shell Scripting
